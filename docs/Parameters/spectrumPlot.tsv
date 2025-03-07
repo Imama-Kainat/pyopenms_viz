@@ -1,6 +1,4 @@
 Parameter	Default	Type	Description
-x*		str	The column name for x-axis data
-y*		str	The column name for y-axis data
 by		str	The column name to group by
 backend		str	'Backend to use. One of: [ “ms_matplotlib”, “ms_bokeh”, “ms_plotly” ]. Must be specified if not set globally
 reference_spectrum		DataFrame	alternative dataframe to plot as the reference spectrum.
